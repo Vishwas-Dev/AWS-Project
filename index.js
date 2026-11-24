@@ -12,7 +12,7 @@ app.get("/ping", (req, res) => {
     serverAddr: ip.address(),
   });
 });
-ls
+
 
 
 app.listen(PORT, () => {
